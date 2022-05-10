@@ -15,7 +15,7 @@ export var move_left = "ui_left"
 
 var index_val := 1
 
-var current_index_pos := 0
+export var current_index_pos := 0
 var nodes_pos := []
 var index_ref_pos_nodes := []
 
